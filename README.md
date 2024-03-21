@@ -39,7 +39,7 @@ Website: https://developer.oculus.com
   - https://www.youtube.com/results?search_query=what+is+a+sphere+cast+unity3D
 - Pinch: Abstract, Vector3, Quaternion and Transform ?
   - 2020_02_03_KaputCommander:  https://www.youtube.com/watch?v=piJaZhe9UJA
-  - 
+  - Pinch Object: https://gitlab.com/eloistree/2020_02_01_MagnetSnapping
 
 
 
