@@ -40,6 +40,10 @@ Website: https://developer.oculus.com
 - Pinch: Abstract, Vector3, Quaternion and Transform ?
   - 2020_02_03_KaputCommander:  https://www.youtube.com/watch?v=piJaZhe9UJA
   - Pinch Object: https://gitlab.com/eloistree/2020_02_01_MagnetSnapping
+- Open XR and Unity Input:
+  - Unity Input: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.5/manual/Actions.html
+  - Open XR doc: https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.10/manual/index.html 
+  - Hack In the Wood Slide: [Slide](https://docs.google.com/presentation/d/e/2PACX-1vRriKS_IR4K8T0-LIFoVX0iNyFasUH7mt9zed83Bz3N-IhR_C0lRHzd0IR13XJJXeAY0JDLWCQ9KIbl/pub?start=false&loop=false&delayms=3000)
 
 
 
