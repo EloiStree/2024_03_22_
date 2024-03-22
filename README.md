@@ -71,6 +71,7 @@ Website: https://developer.oculus.com
 
 -----------
 # Out of topic
+## Gaussian 3D/4D + Sora AI
 [![image](https://github.com/EloiStree/2024_03_22_TechGoesWild/assets/20149493/c4752037-54b8-44c0-a0f4-1e5a84ead445)](https://twitter.com/_akhaliq/status/1689147758744104961)
 
 
