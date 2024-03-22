@@ -53,7 +53,10 @@ Website: https://developer.oculus.com
 
 # Post Covid Open XR & Input System
 
-[![image](https://github.com/EloiStree/2024_03_22_TechGoesWild/assets/20149493/9d4b49b9-949d-46ee-903c-c31b4b6cced5)](https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing)https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing
+[![image](https://github.com/EloiStree/2024_03_22_TechGoesWild/assets/20149493/9d4b49b9-949d-46ee-903c-c31b4b6cced5)](https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing)
+[Slide with code =>](https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing)   
+[Slide no code =>](https://docs.google.com/presentation/d/e/2PACX-1vSGxyUsLmLiIEdPtboKty9WVjO1XojCvxGWo33keL_kOCLOkxnccqTuQmFSvb7_s5Czp81La7BfOVIZ/pub?start=true&loop=false&delayms=10000)   
+
 
 
 
