@@ -49,6 +49,13 @@ Website: https://developer.oculus.com
   - Unity Input: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.5/manual/Actions.html
   - Open XR doc: https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.10/manual/index.html 
   - Hack In the Wood Slide: [Slide](https://docs.google.com/presentation/d/e/2PACX-1vRriKS_IR4K8T0-LIFoVX0iNyFasUH7mt9zed83Bz3N-IhR_C0lRHzd0IR13XJJXeAY0JDLWCQ9KIbl/pub?start=false&loop=false&delayms=3000)
+ 
+
+# Post Covid Open XR & Input System
+
+[![image](https://github.com/EloiStree/2024_03_22_TechGoesWild/assets/20149493/9d4b49b9-949d-46ee-903c-c31b4b6cced5)](https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing)https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing
+
+
 
 
 
