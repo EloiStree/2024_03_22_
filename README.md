@@ -1,6 +1,7 @@
 Friday Slide: [Watch Slide](https://docs.google.com/presentation/d/e/2PACX-1vSGxyUsLmLiIEdPtboKty9WVjO1XojCvxGWo33keL_kOCLOkxnccqTuQmFSvb7_s5Czp81La7BfOVIZ/pub?start=true&loop=false&delayms=10000)
 
-Pinger Eloi: https://discord.gg/3gJDZpfA4B
+Pinger Eloi sur Discord Eloi Teaching:  
+https://discord.gg/3gJDZpfA4B  
 
 ---------------------
 
