@@ -11,7 +11,7 @@ Website: https://portal.lynx-r.com
 Download Samples: https://portal.lynx-r.com/downloads/  
 GitHub Source: https://github.com/orgs/Lynx-MR/repositories 
 Use Lynx on PC with WiFi: https://github.com/Lynx-MR/ALXR  
-
+Discord: https://discord.gg/yqaWBtuv9z
 
 # Quest 3 ?
 
