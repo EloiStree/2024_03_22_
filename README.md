@@ -65,3 +65,19 @@ Website: https://developer.oculus.com
 ## Learn XR by playing video
 
 - Video about XR : https://www.youtube.com/@LearnByPlayingInXR
+
+
+
+
+-----------
+# Out of topic
+[![image](https://github.com/EloiStree/2024_03_22_TechGoesWild/assets/20149493/c4752037-54b8-44c0-a0f4-1e5a84ead445)](https://twitter.com/_akhaliq/status/1689147758744104961)
+
+
+[![image](https://github.com/EloiStree/2024_03_22_TechGoesWild/assets/20149493/928488da-c5e6-4942-903f-ed03ccebdce9)](https://www.youtube.com/watch?v=b-yfEzE-bIU&pp=ygUTc29yYSB0byAzRCBnYXVzc2lhbg%3D%3D)
+
+[![image](https://github.com/EloiStree/2024_03_22_TechGoesWild/assets/20149493/60f2220c-a288-4cf8-bd55-5e47e249d1c0)](https://www.youtube.com/watch?v=VkIJbpdTujE&pp=ygUTc29yYSB0byAzRCBnYXVzc2lhbg%3D%3D)https://www.youtube.com/watch?v=VkIJbpdTujE&pp=ygUTc29yYSB0byAzRCBnYXVzc2lhbg%3D%3D
+
+[![image](https://github.com/EloiStree/2024_03_22_TechGoesWild/assets/20149493/00585688-faf1-48db-b0e2-5ee297d1631b)](https://www.youtube.com/watch?v=BHe-BYXzoM8&pp=ygUTc29yYSB0byAzRCBnYXVzc2lhbg%3D%3D)https://www.youtube.com/watch?v=BHe-BYXzoM8&pp=ygUTc29yYSB0byAzRCBnYXVzc2lhbg%3D%3D
+
+
