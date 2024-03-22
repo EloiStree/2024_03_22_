@@ -1,5 +1,7 @@
 Friday Slide: [Watch Slide](https://docs.google.com/presentation/d/e/2PACX-1vSGxyUsLmLiIEdPtboKty9WVjO1XojCvxGWo33keL_kOCLOkxnccqTuQmFSvb7_s5Czp81La7BfOVIZ/pub?start=true&loop=false&delayms=10000)
 
+Pinger Eloi: https://discord.gg/3gJDZpfA4B
+
 ---------------------
 
 ![image](https://github.com/EloiStree/2024_03_22_/assets/20149493/9ae18316-c58a-4fc7-baf0-036bc2cc79c9)
