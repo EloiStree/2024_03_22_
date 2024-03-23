@@ -3,6 +3,9 @@ Friday Slide: [Watch Slide](https://docs.google.com/presentation/d/e/2PACX-1vSGx
 Pinger Eloi sur Discord Eloi Teaching:  
 https://discord.gg/3gJDZpfA4B  
 
+Capture Screen and app texture:  
+https://github.com/EloiStree/2023_07_23_Fork_uWindowCapture  
+
 ---------------------
 
 ![image](https://github.com/EloiStree/2024_03_22_/assets/20149493/9ae18316-c58a-4fc7-baf0-036bc2cc79c9)
